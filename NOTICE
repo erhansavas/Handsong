@@ -1,0 +1,14 @@
+Handsong
+Copyright 2026 erhansavas
+
+This product includes software developed by third parties:
+
+JoltPhysics, Copyright 2021 Jorrit Rouwe, MIT licence (third_party/jolt)
+GamepadMotionHelpers, Copyright 2020-2023 Julian "Jibb" Smart, MIT licence (third_party/GamepadMotionHelpers)
+libopus 1.5.2, Copyright Xiph.Org Foundation and contributors, BSD 3-Clause licence (third_party/opus)
+
+Protocol facts were checked against, with thanks: SDL's HIDAPI driver (zlib), John Klein's trigger notes (MIT), the Python driver by flok (MIT)
+and Lelisvaldo's protocol document (MIT). None of their code is included. See docs/PROTOCOL_NOTES.md.
+
+All other code, models, sound and art in this project are first-party work.
+See docs/ASSETS.md for the origin of every shipped asset.

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleIdentifier</key><string>io.github.erhansavas.handsong</string>
+  <key>CFBundleName</key><string>Handsong</string>
+  <key>CFBundleDisplayName</key><string>Handsong</string>
+  <key>CFBundleExecutable</key><string>Handsong</string>
+  <key>CFBundleIconName</key><string>Handsong</string>
+  <key>CFBundleIconFile</key><string>Handsong</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>1.0.0</string>
+  <key>CFBundleVersion</key><string>1</string>
+  <key>LSMinimumSystemVersion</key><string>15.0</string>
+  <key>LSUIElement</key><true/>
+  <key>LSSupportsGameMode</key><true/>
+  <key>LSApplicationCategoryType</key><string>public.app-category.music</string>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>NSMicrophoneUsageDescription</key><string>The instrument can listen to your breath and voice and turn them into patterns on screen. Nothing is recorded.</string>
+  <key>NSAudioCaptureUsageDescription</key><string>Handsong listens to what your Mac plays so you can feel it in your hands and hear it on the controller. Nothing is recorded.</string>
+</dict>
+</plist>

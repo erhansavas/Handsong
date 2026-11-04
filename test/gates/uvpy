@@ -1,0 +1,5 @@
+#!/bin/zsh
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 erhansavas
+# Runs a gate script with the pinned analysis libraries.
+exec uv run --no-project --python 3.15 --with flip-evaluator==1.7 --with pillow==13.0.0 --with numpy==2.5.4 --with scipy==1.18.1 python "$@"
